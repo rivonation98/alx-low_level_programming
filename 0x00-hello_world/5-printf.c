@@ -1,0 +1,9 @@
+#include <stdio.h>
+/**
+ * *Description: main - Prints out a string using printf on a new line.
+ * *Return: 0 if success
+ */
+int main(void)
+{
+Printf("with proper grammar, but the outcome is a piece of art,\n");
+return (0);
